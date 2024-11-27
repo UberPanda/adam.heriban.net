@@ -26,14 +26,13 @@ author: "Adam Heriban"
 
 navbar-links:
   Accueil: "/"
-  A propos:
-    - Nos membres: "nosmembres"
-    - Nos statuts et missions: "statuts"
-    - Résumé: "resume"
   Projets en cours:
-    - Annonces à venir: "/"
+  - Exposition De la case au pixel ; Musée Suisse du Jeu: "pixelvetica"
   Projets terminés:
-    - Pixelvetica: "pixelvetica"
+    - Salle Halloween ; Musée Suisse du Jeu: "pixelvetica"    
+    - Nuit des musées ; Muséum d&rsquo;histoire naturelle de Neuchâtel: "pixelvetica"   
+    - Exposition Game Over ; Musée Suisse du Jeu: "pixelvetica"
+  À propos:
   Contact: "contact"
 
 ################
