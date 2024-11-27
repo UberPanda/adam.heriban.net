@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Swiss Video Game Archivists
+title: Adam Heriban
 lang: fr
 #subtitle: Swiss Video Game Archivists
 ---
