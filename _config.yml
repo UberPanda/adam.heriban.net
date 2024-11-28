@@ -25,15 +25,18 @@ author: "Adam Heriban"
 ###############################################
 
 navbar-links:
-  Accueil: "/"
-  Projets en cours:
-  - Exposition De la case au pixel ; Musée Suisse du Jeu: "pixelvetica"
-  Projets terminés:
-    - Salle Halloween ; Musée Suisse du Jeu: "pixelvetica"    
-    - Nuit des musées ; Muséum d&rsquo;histoire naturelle de Neuchâtel: "pixelvetica"   
-    - Exposition Game Over ; Musée Suisse du Jeu: "pixelvetica"
-  À propos:
-  Contact: "contact"
+  #Accueil: "/"
+  #Projets en cours:
+  #- Exposition De la case au pixel ; Musée Suisse du Jeu: "pixelvetica"
+  #Projets terminés:
+  #  - Salle Halloween ; Musée Suisse du Jeu: "pixelvetica"    
+  #  - Nuit des musées ; Muséum d&rsquo;histoire naturelle de Neuchâtel: "pixelvetica"   
+  #  - Exposition Game Over ; Musée Suisse du Jeu: "pixelvetica"
+  #À propos:
+  #Contact: "contact"
+  Adam Heriban:
+  Adam Heriban:
+  Adam Heriban:
 
 ################
 # --- Logo --- #
