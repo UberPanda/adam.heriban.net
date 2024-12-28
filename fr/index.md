@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Adam Heriban
+title: Ingénierie et Gestion de Projets.
 lang: fr
 #subtitle: Swiss Video Game Archivists
 ---
